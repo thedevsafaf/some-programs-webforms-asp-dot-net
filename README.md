@@ -1,10 +1,15 @@
 # WebForm_SomePrograms_Task3
 
 1.Prime No Check
+
 2.Palindrome No Check
+
 3.Armstrong No Check
+
 4.Palindrome String Check
+
 5.Fibonacci Series
+
 
 1. Prime No Check
 
