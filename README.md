@@ -24,7 +24,7 @@
 
 ![palindromestring2](https://github.com/thedevsafaf/some-programs-webforms-asp-dot-net/assets/85129653/5fd0c21d-139b-4e8d-9c61-aa9e7bf02e9c)
 
-6. Fibonacci Series
+5. Fibonacci Series
     
 ![fibonacci_series](https://github.com/thedevsafaf/some-programs-webforms-asp-dot-net/assets/85129653/1ef31d43-6cc8-4850-acc9-af6f0a3e3232)
 
